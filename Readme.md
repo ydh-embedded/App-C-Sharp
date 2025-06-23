@@ -8,6 +8,7 @@ Eine vollständige Anleitung zur Einrichtung von .NET MAUI mit VS Code auf Manja
 - Internetverbindung
 - Admin-Rechte (sudo)
 
+
 ## 🚀 Installation
 
 ### 1. Grundlegende Pakete installieren
