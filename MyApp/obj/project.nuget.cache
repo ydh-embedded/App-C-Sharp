@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLClvrek2L2eUqsXlygf35y7ovcmFAF+chwkrbNZz9iLihTCttQlmF9zPph19td7BphQEDV3rU3NmUxu38wmbA==",
+  "success": true,
+  "projectFilePath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyApp/MyApp.csproj",
+  "expectedPackageFiles": [
+    "/home/y/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
