@@ -16532,11 +16532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorApp/MyBlazorApp.csproj",
-      "projectName": "MyBlazorApp",
-      "projectPath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorApp/MyBlazorApp.csproj",
+      "projectUniqueName": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorWeb.csproj",
+      "projectName": "MyBlazorWeb",
+      "projectPath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorWeb.csproj",
       "packagesPath": "/home/y/.nuget/packages/",
-      "outputPath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorApp/obj/",
+      "outputPath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

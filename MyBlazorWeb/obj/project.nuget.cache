@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MIZWp91QC+c=",
+  "dgSpecHash": "fC1ASr4/rR4=",
   "success": true,
-  "projectFilePath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorApp/MyBlazorApp.csproj",
+  "projectFilePath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorWeb.csproj",
   "expectedPackageFiles": [
     "/home/y/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/home/y/.nuget/packages/microsoft.aspnetcore.authorization/8.0.10/microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorApp.csproj": {}
+    "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorWeb.csproj": {}
   },
   "projects": {
-    "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorApp.csproj": {
+    "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorApp.csproj",
-        "projectName": "MyBlazorApp",
-        "projectPath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorApp.csproj",
+        "projectUniqueName": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorWeb.csproj",
+        "projectName": "MyBlazorWeb",
+        "projectPath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/MyBlazorWeb.csproj",
         "packagesPath": "/home/y/.nuget/packages/",
         "outputPath": "/run/media/y/610757af-4666-4500-9ef8-bf76283f8d91/home/y/Dokumente/Working-Directory/VS-Code/App-C#/MyBlazorWeb/obj/",
         "projectStyle": "PackageReference",
