@@ -1,4 +1,9 @@
+# CMD Line Tools
 
+  - die Zip-Datei und die Ordner sind nicht mit im Git gemerged
+  - Download link : https://developer.android.com/studio?hl=de
+
+  
 ```bash
    /run/me/y/6/h/y/Dok/W/VS-Code/App-C#/Android/SDK    main ?1  tree                                                                               ✔ 
 .
