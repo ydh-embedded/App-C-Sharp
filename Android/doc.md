@@ -1,9 +1,10 @@
 # CMD Line Tools
 
   - die Zip-Datei und die Ordner sind nicht mit im Git gemerged
+  - CMD >> sudo wget https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
   - Download link : https://developer.android.com/studio?hl=de
 
-  
+
 ```bash
    /run/me/y/6/h/y/Dok/W/VS-Code/App-C#/Android/SDK    main ?1  tree                                                                               ✔ 
 .
